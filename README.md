@@ -1,6 +1,5 @@
 # Prodigy_InfoTech_DS_Task-1
-In this task, I performed Exploratory Data Analysis (EDA) on a dataset focusing on visualizing the distribution of population data by gender over the years 2001 to 2022.
-Prodigy InfoTech Data Science Internship Task 1
+
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy InfoTech. In this task, I performed Exploratory Data Analysis (EDA) on a dataset focusing on visualizing the distribution of population data by gender over the years 2001 to 2022.
 
 Dataset
